@@ -1,0 +1,9 @@
+langchain
+guardrails-ai
+faiss-cpu
+pypdf
+python-dotenv
+datasets
+huggingface_hub
+tqdm
+openai==0.28
