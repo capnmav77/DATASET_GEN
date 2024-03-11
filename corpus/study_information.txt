@@ -1,0 +1,451 @@
+Brief Title: Kinesiotape for Edema After Bilateral Total Knee Arthroplasty
+Official Title: Effect of Kinesiotaping on Edema Management, Pain and Function on Patients With Bilateral Total Knee Arthroplasty
+Brief Summary: The purpose of this study is to determine if kinesiotaping for edema management will decrease post-operative edema in patients with bilateral total knee arthroplasty. The leg receiving kinesiotaping during inpatient rehabilitation may have decreased edema and pain and improved movement and function when compared to the leg not receiving kinesiotape.
+Conditions Module: Arthroplasty Complications, Arthroplasty, Replacement, Knee
+Keywords: edema, arthroplasty, knee, bilateral, kinesiotaping
+Arm Group Label: Kinesiotape leg plus standard rehabilitation
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: Kinesio(R)Tape for edema management applied to a randomly selected lower extremity plus standard inpatient rehabilitation after bilateral total knee arthroplasty
+Intervention Type: DEVICE
+Intervention Name: Kinesio(R)Tape for edema control
+Intervention Description: Kinesio(R)Tape is an elastic, cotton tape with an adhesive backing. When applied for edema management, strips of Kinesio(R)Tape are applied to the lower leg in a criss-cross fashion by a physical therapist who is a Certified Kinesiotape Practitioner.
+Arm Group Labels: Kinesiotape leg plus standard rehabilitation
+Other Names: kinesiotaping or kinesiological taping
+Arm Group Label: Control leg with standard rehabilitation alone
+Arm Group Type: NO_INTERVENTION
+Arm Group Description: Control leg receiving standard inpatient rehabilitation alone.
+Intervention Type: DEVICE
+Intervention Name: Kinesio(R)Tape for edema control
+Intervention Description: Kinesio(R)Tape is an elastic, cotton tape with an adhesive backing. When applied for edema management, strips of Kinesio(R)Tape are applied to the lower leg in a criss-cross fashion by a physical therapist who is a Certified Kinesiotape Practitioner.
+Arm Group Labels: Kinesiotape leg plus standard rehabilitation
+Other Names: kinesiotaping or kinesiological taping
+Primary Outcomes:
+Measure: Change from baseline and during 1-2-day time intervals of circumferences of both knees and lower extremities
+Description: Bilateral circumferences, in centimeters, at the following points: 10 cm above the superior pole of the patella; middle of the knee joint; calf circumference at the broadest part of the calf and at 3 inches below the fibular head landmark; figure of eight method for foot and ankle circumference - a measurement from the lateral malleolus to the navicular tuberosity, under the plantar aspect of the foot towards the tuberosity of the fifth metatarsal, around to the medial malleolus, and posterior to the leg to return to the lateral malleolus.
+Time Frame: During inpatient rehabilitation stay for each subject: at baseline (day 0), day 1, day 2, and every other day until day 8
+Secondary Outcomes:
+Measure: Change from baseline and day-to-day changes of bilateral knee pain on numerical pain rating scale
+Description: Patient self-report: Pain rating for each leg on a integer scale of 0 (no pain) to 10 (worst pain imaginable)
+Time Frame: During inpatient rehabilitation stay for each subject: at baseline (day 0), day 1, day 2, and every other day until day 8
+Measure: Change from baseline and during 1-2-day time intervals for bilateral knee range of motion
+Description: Physical therapist's measurement of active and active assistive knee range of motion (degrees) for flexion and extension using a standard goniometer
+Time Frame: During inpatient rehabilitation stay for each subject: at baseline (day 0), day 1, day 2, and every other day until day 8
+Measure: Change from baseline to Day 4 to Discharge Day for selected parts of the Knee Injury and Osteoarthritis Outcome Score (KOOS) self-report
+Description: Patient self-report using the KOOS sections relating to pain, stiffness, activities of daily living
+Time Frame: At start of study, 4 days after start of study, and day 8
+Measure: Change from baseline and during 1-2-day time intervals for Timed Up-and-Go Test
+Description: Time (sec) to rise from a seated position, walk 10 m, turn, walk back to seat, and sit down. Patient will use appropriate assistive device and have appropriate guarding by a physical therapist.
+Time Frame: During inpatient rehabilitation stay for each subject: at baseline (day 0), day 1, day 2, and every other day until day 8
+
+==================================================
+Brief Title: An Open-labeled Trial of Ramipril in Patients With Migraine
+Official Title: An Open-labeled Trial of Ramipril in Patients With Migraine
+Brief Summary: Physiology of migraine involving renin-angiotensin systems (RAS) has been implicated. Ramipril is a broadly-used angiotensin-converting enzyme inhibitor. The investigators attempt to test the efficacy of ramipril on the prophylaxis of migraine attacks.
+Conditions Module: Migraine With Hypertension
+Keywords: migraine,, ramipril,, hypertension
+Arm Group Label: ramipril
+Arm Group Type: ACTIVE_COMPARATOR
+Arm Group Description: open label single arm trial
+Intervention Type: DRUG
+Intervention Name: Ramipril
+Intervention Description: ramipril 2.5mg twice a day
+Arm Group Labels: ramipril
+Other Names: N/A
+Primary Outcomes:
+Measure: headache frequency
+Description: headache days
+Time Frame: 12 week
+Secondary Outcomes:
+
+==================================================
+Brief Title: OCTA in Epivascular Glia After Dex Implant
+Official Title: Evaluation of Changes in Epivascular Glia Before and After Intravitreal Dexamethasone Implant : an OCT Pilot Study
+Brief Summary: The aim of this prospective study was for the first time, to analyze specific morphologic features in diabetic eyes with macular oedema, such as changes of the foveal avascular zone and the presence of epivascular glia, and see how they would change after dexamethasone intravitreal implant
+Conditions Module: Diabetic Retinopathy
+Keywords: N/A
+Arm Group Label: patients with diabetic macular edema
+Arm Group Type: N/A
+Arm Group Description: N/A
+Intervention Type: DRUG
+Intervention Name: Dexamethasone intravitreal implant
+Intervention Description: Dexamethasone intravitreal implant
+Arm Group Labels: patients with diabetic macular edema
+Other Names: N/A
+Arm Group Label: healthy patients
+Arm Group Type: N/A
+Arm Group Description: N/A
+Intervention Type: DRUG
+Intervention Name: Dexamethasone intravitreal implant
+Intervention Description: Dexamethasone intravitreal implant
+Arm Group Labels: patients with diabetic macular edema
+Other Names: N/A
+Primary Outcomes:
+Measure: Changes in epivascular glia after Dexamethasone implant in patients with diabetic retinopathy and inflammatory macular edema
+Description: N/A
+Time Frame: up to 6 months
+Secondary Outcomes:
+
+==================================================
+Brief Title: Brain-imaging and Adolescent Neuroscience Consortium
+Official Title: Brain-imaging and Adolescent Neuroscience Consortium
+Brief Summary: This is a multi-site study of adolescents 12-21 years-of-age to evaluate the long and shorter-term effect of adolescent alcohol use on the developing brain.
+Conditions Module: Alcohol Abuse
+Keywords: Alcohol abuse
+Arm Group Label: Alcohol-naive adolescents
+Arm Group Type: N/A
+Arm Group Description: A general population longitudinal cohort of alcohol-naïve (or h/o minimal recent-onset drinking) adolescents in three specific age-groups: early (12-14 y/o), middle (15-17 y/o), and late (18-21 y/o).
+
+==================================================
+Brief Title: Leverage Noninvasive Transcutaneous Vagus Nerve Stimulation to Reduce Suicidal Behaviors in Vulnerable Adolescents
+Official Title: Leveraging Noninvasive Transcutaneous Vagus Nerve Stimulation and Smartphone Technology to Reduce Suicidal Behaviors and Suicide Among Highly Vulnerable Adolescents
+Brief Summary: Suicidal thoughts, suicide attempts, and suicide are increasingly common in adolescence.
+
+Current face-to-face prevention approaches are of limited effectiveness, rely on extensive resources, and are at odds with adolescents' digital preferences. We will evaluate two unconventional but promising interventions delivered to 13- to 17-year-olds: transcutaneous vagus nerve stimulation to target emotion dysregulation, and a peer-support smartphone app to combat social isolation. If effective, these digitally-delivered interventions could reach far more adolescents at far lower cost than current approaches.
+Conditions Module: Self Harm, Suicidal Ideation
+Keywords: Self Harm, Suicide Prevention
+Arm Group Label: tVNS Program
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: Adolescents will self-administer 30-minute tVNS (i.e., nerve stimulation) sessions daily for 30 days. They will receive a daily text message on their phone to remind them about their session. In addition, they will answer a 2-3 minute self-report survey on their current thoughts, feelings, and behaviors once a day for 30 days. They will receive a text message with a link to Qualtrics, a secure online platform where they will complete the survey.
+Intervention Type: DEVICE
+Intervention Name: tVns Program
+Intervention Description: Participants will use the Neuvana Xen device 30 minutes a day for 3 days. The device delivers stimulation through the left ear via an ear bud. Participants can use the device at any time of day.
+Arm Group Labels: tVNS Program
+Other Names: N/A
+Intervention Type: OTHER
+Intervention Name: Phone App Program
+Intervention Description: Participants will have access to a specially designed phone app in order to play a game designed for this study. Approximately half of the participants will be able to connect with a fellow participant who is matched as their peer for social support.
+Arm Group Labels: Phone App Program
+Other Names: N/A
+Intervention Type: COMBINATION_PRODUCT
+Intervention Name: tVNS and Phone App Program
+Intervention Description: Participants will have both the Neuvana Xen Device and the full version of our program's phone app. They will use the device and full app access for 30 days.
+Arm Group Labels: tVNS and Phone App Program
+Other Names: N/A
+Intervention Type: OTHER
+Intervention Name: Enhanced Treatment as Usual
+Intervention Description: Participants will have access to our program's phone app so the can play the game and will be called weekly to complete risk assessments.
+Arm Group Labels: Enhanced Treatment as Usual
+Other Names: N/A
+Arm Group Label: Phone App Program
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: Adolescents will use a specially designed phone app to communicate with peers to help them cope with emotions, and to foster connection with peers to establish social connections. In addition, they will answer a 2-3 minute self-report survey on their current thoughts, feelings, and behaviors once a day for 30 days. They will receive a text message with a link to Qualtrics, a secure online platform where they will complete the survey. The phone app will not be monitored during the night. If your adolescent needs immediate care during the night, please call 911 or your doctor's emergency contact number.
+Intervention Type: DEVICE
+Intervention Name: tVns Program
+Intervention Description: Participants will use the Neuvana Xen device 30 minutes a day for 3 days. The device delivers stimulation through the left ear via an ear bud. Participants can use the device at any time of day.
+Arm Group Labels: tVNS Program
+Other Names: N/A
+Intervention Type: OTHER
+Intervention Name: Phone App Program
+Intervention Description: Participants will have access to a specially designed phone app in order to play a game designed for this study. Approximately half of the participants will be able to connect with a fellow participant who is matched as their peer for social support.
+Arm Group Labels: Phone App Program
+Other Names: N/A
+Intervention Type: COMBINATION_PRODUCT
+Intervention Name: tVNS and Phone App Program
+Intervention Description: Participants will have both the Neuvana Xen Device and the full version of our program's phone app. They will use the device and full app access for 30 days.
+Arm Group Labels: tVNS and Phone App Program
+Other Names: N/A
+Intervention Type: OTHER
+Intervention Name: Enhanced Treatment as Usual
+Intervention Description: Participants will have access to our program's phone app so the can play the game and will be called weekly to complete risk assessments.
+Arm Group Labels: Enhanced Treatment as Usual
+Other Names: N/A
+Arm Group Label: tVNS and Phone App Program
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: Adolescents will self-administer 30-minute tVNS (i.e., nerve stimulation) sessions daily for 30 days. They will receive a daily text message on their phone to remind them about their session. In addition, they will answer a 2-3 minute self-report survey on their current thoughts, feelings, and behaviors once a day for 30 days. They will receive a text message with a link to Qualtrics, a secure online platform where they will complete the survey.
+Intervention Type: DEVICE
+Intervention Name: tVns Program
+Intervention Description: Participants will use the Neuvana Xen device 30 minutes a day for 3 days. The device delivers stimulation through the left ear via an ear bud. Participants can use the device at any time of day.
+Arm Group Labels: tVNS Program
+Other Names: N/A
+Intervention Type: OTHER
+Intervention Name: Phone App Program
+Intervention Description: Participants will have access to a specially designed phone app in order to play a game designed for this study. Approximately half of the participants will be able to connect with a fellow participant who is matched as their peer for social support.
+Arm Group Labels: Phone App Program
+Other Names: N/A
+Intervention Type: COMBINATION_PRODUCT
+Intervention Name: tVNS and Phone App Program
+Intervention Description: Participants will have both the Neuvana Xen Device and the full version of our program's phone app. They will use the device and full app access for 30 days.
+Arm Group Labels: tVNS and Phone App Program
+Other Names: N/A
+Intervention Type: OTHER
+Intervention Name: Enhanced Treatment as Usual
+Intervention Description: Participants will have access to our program's phone app so the can play the game and will be called weekly to complete risk assessments.
+Arm Group Labels: Enhanced Treatment as Usual
+Other Names: N/A
+Arm Group Label: Enhanced Treatment as Usual
+Arm Group Type: SHAM_COMPARATOR
+Arm Group Description: Enhanced TAU participants will be referred to and have access to available services within the community and, in addition to reports of their daily experiences via the sham app, will be called weekly to complete risk assessments during the active 30-day intervention stage.
+Intervention Type: DEVICE
+Intervention Name: tVns Program
+Intervention Description: Participants will use the Neuvana Xen device 30 minutes a day for 3 days. The device delivers stimulation through the left ear via an ear bud. Participants can use the device at any time of day.
+Arm Group Labels: tVNS Program
+Other Names: N/A
+Intervention Type: OTHER
+Intervention Name: Phone App Program
+Intervention Description: Participants will have access to a specially designed phone app in order to play a game designed for this study. Approximately half of the participants will be able to connect with a fellow participant who is matched as their peer for social support.
+Arm Group Labels: Phone App Program
+Other Names: N/A
+Intervention Type: COMBINATION_PRODUCT
+Intervention Name: tVNS and Phone App Program
+Intervention Description: Participants will have both the Neuvana Xen Device and the full version of our program's phone app. They will use the device and full app access for 30 days.
+Arm Group Labels: tVNS and Phone App Program
+Other Names: N/A
+Intervention Type: OTHER
+Intervention Name: Enhanced Treatment as Usual
+Intervention Description: Participants will have access to our program's phone app so the can play the game and will be called weekly to complete risk assessments.
+Arm Group Labels: Enhanced Treatment as Usual
+Other Names: N/A
+Primary Outcomes:
+Measure: Change from Baseline in Non-Suicidal Self Injury Behaviors at 30 Days
+Description: Teens will be assessed at the baseline lab visit for emotion regulation and self-harm through questions on the Qualtrics survey (measures are Difficulties in Emotion Regulation Scale and the Youth Self Report). They will also complete a face-to-face interview with a trained staff member to assess their level of non-suicidal self-injury, suicide ideation, and suicide attempts. In addition, we will collect measures of psychophysiological reactivity (heart rate variability, cardiac pre-ejection period) to emotional challenge.
+
+All participants will complete the same tasks at subsequent visits (post-treatment, on-year follow-up) and it is hoped that teens who have used the tVNS device for the 30-day intervention period will show improved responses. For the rate of change, we will use percentile ranking vis-a-vis national norms.
+Time Frame: 30 Days
+Measure: Improved Reports of Social Isolation and Loneliness
+Description: Each participating teen will complete questions regarding feelings of loneliness and social isolation on the Qualtrics survey while in the lab at each visit. We are using the 8-item UCLA loneliness scale to measure this in each teen.
+
+Some teens will be assigned to using the peer support phone app where they will be matched with another teen in this study. They will play a cooperative game with each other, and be able to text and share thoughts, feelings, etc. with each other. This app will hopefully improve teen's self-reported feelings of isolation and loneliness.
+
+For the rate of change, we will use percentile ranking vis-a-vis national norms.
+Time Frame: 30 Days
+Measure: Improved Results from Participant's Typical Treatment
+Description: Teens who are not placed in one of the active intervention groups will still be able to access our phone app which allows them to play a non-cooperative game on their own, and they are able to text with our team members during regular business hours. The added support will hopefully help their current treatment plan to improve their thoughts and behaviors in regard to suicidal ideation and self-harm.
+
+For the rate of change, we will use percentile ranking vis-a-vis national norms.
+Time Frame: 30 Days
+Secondary Outcomes:
+Measure: Adherence to tVNS and Phone App intervention from Baseline to 30 days.
+Description: Using data from the Xen device and the phone app, we will be able to determine the number of occurances the device and app were accessed, as well as for how much time each was actively used. Participants will also report on acceptability, obtrusiveness, and favorability of both the device and the phone app.
+Time Frame: 30 Days
+
+==================================================
+Brief Title: Genistein in Treating Patients With Prostate Cancer
+Official Title: Phase 2 Trial of Genistein in Men With Circulating Prostate Cancer Cells
+Brief Summary: RATIONALE: Genistein may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+PURPOSE: This randomized phase II trial is studying how well genistein works in treating patients with prostate cancer.
+Conditions Module: Adenocarcinoma of the Prostate, Recurrent Prostate Cancer, Stage I Prostate Cancer, Stage II Prostate Cancer, Stage III Prostate Cancer
+Keywords: N/A
+Arm Group Label: Arm I
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: Patients receive oral genistein once daily for 3 months beginning at least 1 month prior to radical prostatectomy.
+Intervention Type: DIETARY_SUPPLEMENT
+Intervention Name: genistein
+Intervention Description: Given orally
+Arm Group Labels: Arm I
+Other Names: CI 75610, Genestein, genisteol, genisterin, prunetol, sophoricol
+Intervention Type: OTHER
+Intervention Name: placebo
+Intervention Description: Given orally
+Arm Group Labels: Arm II
+Other Names: PLCB
+Intervention Type: PROCEDURE
+Intervention Name: therapeutic conventional surgery
+Intervention Description: Radical prostatectomy for treatment of prostate cancer
+Arm Group Labels: Arm I, Arm II
+Other Names: N/A
+Arm Group Label: Arm II
+Arm Group Type: PLACEBO_COMPARATOR
+Arm Group Description: Patients receive an oral placebo once daily for 3 months beginning at least 1 month prior to radical prostatectomy.
+Intervention Type: DIETARY_SUPPLEMENT
+Intervention Name: genistein
+Intervention Description: Given orally
+Arm Group Labels: Arm I
+Other Names: CI 75610, Genestein, genisteol, genisterin, prunetol, sophoricol
+Intervention Type: OTHER
+Intervention Name: placebo
+Intervention Description: Given orally
+Arm Group Labels: Arm II
+Other Names: PLCB
+Intervention Type: PROCEDURE
+Intervention Name: therapeutic conventional surgery
+Intervention Description: Radical prostatectomy for treatment of prostate cancer
+Arm Group Labels: Arm I, Arm II
+Other Names: N/A
+Primary Outcomes:
+Measure: Number of Circulating Prostate Cells (CPCs) in the Blood as Determined by qRT-PCR for PSA on RNA Extracted From PBMNCs
+Description: Blood will be collected to analyze the number of CPC's at screening, after 1-month of treatment, at surgery and at 1 and 12 months after surgery.
+Time Frame: At screening, after 1-month of treatment, at surgery and at 1 and 12 months after surgery
+Secondary Outcomes:
+Measure: Natural History of Circulating Prostate Cells (CPCs) in a Cohort of Subjects Prior to and Post Radical Prostatectomy
+Description: Blood will be drawn to analyze the natural history of circulating prostate cells (CPCs) in a cohort of subjects at baseline and 1 and 12 months after surgery.
+Time Frame: At baseline, 1 and 12 months after surgery
+Measure: Measure the Effect of Genistein on Select Gene and Protein Expressions in Prostate Tissue
+Description: At baseline and time of surgery, tissue will be collected to measure the effect of genistein on select gene and protein expressions in prostate tissue.
+Time Frame: At baseline and at time of surgery
+Measure: Measurement of PSA in Serum and Plasma by Nanotechnology
+Description: Blood will be collected to measure PSA in serum and plasma by nanotechnology at screening, after 1-month of treatment, at surgery and at 1 and 12 months after surgery.
+Time Frame: At screening, after 1-month of treatment, at surgery and at 1 and 12 months after surgery
+
+==================================================
+Brief Title: Efficacy and Safety of BUFY01 Versus SVS20 in the Treatment of Dry Eye Disease
+Official Title: Efficacy and Safety of BUFY01 Versus SVS20 in the Treatment of Dry Eye Disease: a Non-inferiority Investigation
+Brief Summary: The goal of this interventional investigation is to compare BUFY01 with SVS20 in the treatment of patients with dry eye disease. The main questions it aims to answer are:
+
+* Is BUFY01 non-inferior to SVS20 in terms of signs of DED?
+* Is BUFY01 non-inferior to SVS20 in terms of symptoms of DED?
+
+Participants will be asked to:
+
+* Visit the trial site at 4 different timepoints
+* Use the allocated study treatment everyday until the end of the study (during 3 months)
+* Be examined by the investigator
+* Complete several questionnaires
+* Return unused study treatment.
+
+Researchers will compare BUFY01 to SVS20 to see if both study treatments provide similar effects on signs and symptoms of the disease, together with comparable safety.
+Conditions Module: Dry Eye Disease
+Keywords: N/A
+Arm Group Label: BUFY01
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: 0.18% Sodium Hyaluronate (trometamol buffer) in single-dose containers of 0.3 mL
+Intervention Type: DEVICE
+Intervention Name: BUFY01 eye drops in single-dose containers
+Intervention Description: 1 to 2 drops in each eye, as often as needed
+Arm Group Labels: BUFY01
+Other Names: N/A
+Intervention Type: DEVICE
+Intervention Name: SVS20 eye drops in single-dose containers
+Intervention Description: 1 to 2 drops in each eye, as often as needed
+Arm Group Labels: SVS20
+Other Names: N/A
+Arm Group Label: SVS20
+Arm Group Type: ACTIVE_COMPARATOR
+Arm Group Description: 0.18% Sodium Hyaluronate (phosphate buffer) in single-dose containers of 0.3 mL
+Intervention Type: DEVICE
+Intervention Name: BUFY01 eye drops in single-dose containers
+Intervention Description: 1 to 2 drops in each eye, as often as needed
+Arm Group Labels: BUFY01
+Other Names: N/A
+Intervention Type: DEVICE
+Intervention Name: SVS20 eye drops in single-dose containers
+Intervention Description: 1 to 2 drops in each eye, as often as needed
+Arm Group Labels: SVS20
+Other Names: N/A
+Primary Outcomes:
+Measure: Signs
+Description: Change from baseline in Oxford score (0-15, a higher score meaning a worse outcome)
+Time Frame: Day 28
+Secondary Outcomes:
+Measure: Symptoms
+Description: Change from baseline in Ocular Surface Disease Index
+Time Frame: Day 28
+
+==================================================
+Brief Title: The Effect of Topical Curcumin Versus Topical Corticosteroid on Management of Oral Lichen Planus Patients
+Official Title: The Effect of Topical Curcumin Versus Topical Corticosteroid on Pain, Clinical Parameters and Salivary Level of IL-33 in Oral Lichen Planus Patients: A Randomized Controlled Clinical Trial
+Brief Summary: Introduce a new anti-inflammatory and antioxidant paste preparation (curcumin paste) in the management of Oral lichen planus.
+
+* Assess the efficacy of this preparation on pain, clinical parameter and the level of IL-33 in saliva.
+* Compare the outcome of new preparation with the gold standard treatment (corticosteroids).
+Conditions Module: Oral Lichen Planus
+Keywords: oral lichen planus, curcumin, IL-33, corticosteroids
+Arm Group Label: turmeric paste
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: Topical curcumin gel (a mixture of curcumin powder and vegetable glycerin base in a ratio of 1:8 by weight) Mix with 85ml carbapol gel (125ml H2O + 0.5g carbapol + triethanolamine 3 drops) prepared in the Faculty of pharmacy-Cairo University traumeric extracted from Curcuma plant, it has anti-inflammatory, antioxidative and antineoplastic properties ((Nosratzehi et al., 2018), The curcumin is safe even in high doses, Since oxidative stress may play a role in pathophysiology of OLP, and by noting that OLP is a chronic inflammatory disease, the herbs which have both anti-inflammatory and antioxidant properties may efficiently control OLP (Kia et al., 2015).
+Intervention Type: DRUG
+Intervention Name: Triamcinolone
+Intervention Description: Triamcenolone +napolycarboxylate
+Arm Group Labels: Triamcenolone in orabase
+Other Names: Triamcenolone in orabase
+Intervention Type: DRUG
+Intervention Name: Turmeric paste
+Intervention Description: Topical turmeric paste (a mixture of curcumin powder and vegetable glycerin base in a ratio of 1:8 by weight) Mix with 85ml carbapol gel (125ml H2O + 0.5g carbapol + triethanolamine 3 drops) prepared in the Faculty of pharmacy-Cairo University
+Arm Group Labels: turmeric paste
+Other Names: Curcumin
+Arm Group Label: Triamcenolone in orabase
+Arm Group Type: ACTIVE_COMPARATOR
+Arm Group Description: Triamcenolone + na ploycarboxylate
+Intervention Type: DRUG
+Intervention Name: Triamcinolone
+Intervention Description: Triamcenolone +napolycarboxylate
+Arm Group Labels: Triamcenolone in orabase
+Other Names: Triamcenolone in orabase
+Intervention Type: DRUG
+Intervention Name: Turmeric paste
+Intervention Description: Topical turmeric paste (a mixture of curcumin powder and vegetable glycerin base in a ratio of 1:8 by weight) Mix with 85ml carbapol gel (125ml H2O + 0.5g carbapol + triethanolamine 3 drops) prepared in the Faculty of pharmacy-Cairo University
+Arm Group Labels: turmeric paste
+Other Names: Curcumin
+Primary Outcomes:
+Measure: Pain intensity
+Description: measured by Visual Analog Scale (VAS) 0 = no pain 10= severe pain 0= no pain 10= pain severe pain
+Time Frame: 4 weeks
+Secondary Outcomes:
+Measure: clinical sign score
+Description: measured by Thongprasom from score 0 to 5 0= only white lesion 5=area of erosion more than 2 cm
+Time Frame: Baseline , 2nd week and 4th week
+Measure: IL-33 level in saliva
+Description: by ELISA
+Time Frame: base line and 4th week
+
+==================================================
+Brief Title: Screening Behavior in Adults With Hereditary Hemorrhagic Telangiectasia
+Official Title: Illness Perceptions and the Health Belief Model: Screening Behavior in Adults With Hereditary Hemorrhagic Telangiectasia
+Brief Summary: This study will explore the factors that influence screening behaviors of adults diagnosed with hereditary hemorrhagic telangiectasia (HHT), an inherited condition in which blood vessel defects called arteriovenous malformations (AVMs) result in direct connections between arteries and veins. Patients most commonly have small AVMs called telangiectases on the tongue, face, hands, mouth, and throat and the mucosal linings of the nose and gastrointestinal tract. Recurrent nosebleeds are a hallmark of the disease. Large AVMs can also occur in various organs, causing sudden and life-threatening complications.
+
+The study will examine how patients think and feel about their condition and what actions they take to screen for internal symptoms of the disease.
+
+Men and women 18 years of age and older who have HHT may be eligible for this study. Participants fill out a 30-minute questionnaire, available in print or online, that includes questions about the participant s
+
+* beliefs about HHT
+* actions taken to screen for internal symptoms of HHT
+* experience with HHT
+* current health status, family history and demographic information
+Conditions Module: Osler-Rendu-Weber Disease, Osler-Rendu Disease, Telangiectasia, Hereditary Hemorrhagic
+Keywords: Hereditary Hemorrhagic Telangiectasia, Health Belief Model, Illness Perceptions, Screening, HHT
+
+==================================================
+Brief Title: A Study to Assess the Safety, Tolerability, Pharmacokinetics and Efficacy of CS0159 in Subjects With NASH
+Official Title: A Phase II, Randomized, Double-blind, Placebo-controlled Multicenter Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of CS0159 in the Treatment of Patients With Nonalcoholic Steatohepatitis (NASH)
+Brief Summary: A randomized, double-blind study to assess the safety, tolerability, PK and efficacy of CS0159 in subjects with Non-Alcoholic Steatohepatitis (NASH)
+Conditions Module: Nonalcoholic Steatohepatitis (NASH)
+Keywords: N/A
+Arm Group Label: 1.4mg CS0159
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: One tablet daily for 12 weeks
+Intervention Type: DRUG
+Intervention Name: CS0159 (Linafexor)
+Intervention Description: Oral QD
+Arm Group Labels: 1.4mg CS0159, 2mg CS0159, PLACEBO
+Other Names: placebo
+Arm Group Label: 2mg CS0159
+Arm Group Type: EXPERIMENTAL
+Arm Group Description: One tablet daily for 12 weeks
+Intervention Type: DRUG
+Intervention Name: CS0159 (Linafexor)
+Intervention Description: Oral QD
+Arm Group Labels: 1.4mg CS0159, 2mg CS0159, PLACEBO
+Other Names: placebo
+Arm Group Label: PLACEBO
+Arm Group Type: PLACEBO_COMPARATOR
+Arm Group Description: One tablet daily for 12 weeks
+Intervention Type: DRUG
+Intervention Name: CS0159 (Linafexor)
+Intervention Description: Oral QD
+Arm Group Labels: 1.4mg CS0159, 2mg CS0159, PLACEBO
+Other Names: placebo
+Primary Outcomes:
+Measure: MRI-PDFF
+Description: To assess the changes in liver steatosis through magnetic resonance imaging (MRI) proton density fat fraction (PDFF) from baseline to Week 12
+Time Frame: Week 12
+Measure: Adverse events
+Description: To evaluate the safety and tolerability of CS0159 in patients with NASH treated over 12 weeks
+Time Frame: Week 12
+Secondary Outcomes:
+Measure: Cmax
+Description: maximum concentration (Cmax) from baseline to Week 12
+Time Frame: week 6, week 12
+Measure: tmax
+Description: time to maximum plasma concentration (tmax) from baseline to Week 12
+Time Frame: week 6, week 12
+Measure: t1/2
+Description: half-life (t1/2) from baseline to Week 12
+Time Frame: week 6, week 12
+Measure: AUC
+Description: accumulation ratio of area under the concentration-time curve (AUC) in plasma from baseline to Week 12
+Time Frame: week 6, week 12
+Measure: Pharmacodynamics (PD)
+Description: Plasma concentrations and PD parameters of the biomarkers of FXR target engagement fibroblast growth factor 19 and 7α-hydroxy-4-cholesten-3-one (C4) from baseline to Week 12
+Time Frame: week 6, week 12
+
+==================================================
