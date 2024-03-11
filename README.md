@@ -65,6 +65,4 @@ We welcome contributions from the community! If you're interested in contributin
 Citations:
 [1] https://github.com/adithya-s-k/LLM-Alchemy-Chamber
 [2] https://huggingface.co/LLMao
-[3] https://huggingface.co/docs/huggingface_hub/guides/upload
-[4] https://github.com/huggingface/doc-builder/blob/main/README.md
-[8] https://github.com/ggerganov/llama.cpp/discussions/2948
+
